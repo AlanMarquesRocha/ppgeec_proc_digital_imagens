@@ -24,10 +24,10 @@ Ao todo foram realizados 04 (quatro) projetos ao longo da disciplina, conforme a
 
 | Projeto | Descrição | Link |
 | --- | --- | --- |
-| 1º projeto | Realce no domínio espacial | [Atualizando...](https://github.com/AlanMarquesRocha/segmentacao_imagens_pdi/blob/master/segmentacao_imagens_pt1.ipynb)
-| 2º projeto | Morfologia matemática | [Atualizando...](Link)
-| 3º projeto | Segmentação de Imagens | [Atualizando...](Link)
-| Projeto Final | Extração de Características com LBP | [Atualizando...](Link)
+| 1º projeto | Realce no domínio espacial | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_proc_digital_imagens/tree/master/t01_pdi_realce_no_dominio_espacial)
+| 2º projeto | Morfologia matemática | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_proc_digital_imagens/tree/master/t02_pdi_morfologia_matematica)
+| 3º projeto | Segmentação de Imagens | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_proc_digital_imagens/tree/master/t03_pdi_segmentacao_imagens)
+| Projeto Final | Extração de Características com LBP | [Link para acesso](https://github.com/AlanMarquesRocha/ppgeec_proc_digital_imagens/tree/master/td04_pdi_final_project)
 
 <br>
 
