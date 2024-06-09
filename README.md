@@ -8,7 +8,7 @@
 ---
 
 <h3 align="center"> 
-	🚧 🚀 Em Atualização...🚀  🚧
+	🚧 🚀 Finalizado 🚀  🚧
 </h3>
 
 ---
@@ -18,7 +18,7 @@ Disciplina: Processamento Digital de Imagens (BBP1026) - 2022.2 </h3>
 
 <br>
 
-Neste repositório atualizado, encontram-se os códigos implementados em cada projeto realizado na disciplina de PDI. Além disso, todos os códigos foram atualizados e melhorados. <br>
+Neste repositório, encontram-se os códigos implementados em cada projeto realizado na disciplina de PDI. Além disso, todos os códigos foram atualizados e melhorados. <br>
 
 Ao todo foram realizados 04 (quatro) projetos ao longo da disciplina, conforme apresentado na Tabela a seguir:
 
